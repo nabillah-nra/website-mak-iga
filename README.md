@@ -48,4 +48,4 @@ Saat dibuka lewat XAMPP, frontend mencoba API PHP otomatis. Produk, bahan, penju
 
 ## Catatan cakupan
 
-PDF dibuat lewat fitur cetak browser (pilih “Save as PDF”), bukan generator PDF server. Jika memakai database dari versi lama, jalankan `001_product_photo.sql` bila kolom foto belum ada, lalu jalankan `002_business_settings.sql`. Database baru cukup diimpor dari `database/schema.sql`. AI memerlukan API key aktif dan konfigurasi layanan. Data contoh lokal ditandai sebagai demo. Gambar logo asli MAK IGA tidak ditemukan di folder proyek, sehingga mark sementara masih berupa huruf “MI”.
+PDF dibuat lewat fitur cetak browser (pilih “Save as PDF”), bukan generator PDF server. Jika memakai database dari versi lama, jalankan `001_product_photo.sql` bila kolom foto belum ada, lalu jalankan `002_business_settings.sql`. Database baru cukup diimpor dari `database/schema.sql`. 
