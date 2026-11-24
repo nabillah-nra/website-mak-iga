@@ -44,7 +44,7 @@ Untuk OpenAI, atur `OPENAI_API_KEY` pada environment PHP server, dan opsional `O
 - AI Business Advisor mengirim ringkasan angka dari MySQL ke OpenAI dari server dan menampilkan riwayat percakapan.
 - Skema database relasional tersedia di `database/schema.sql`.
 
-Saat dibuka lewat XAMPP, frontend mencoba API PHP otomatis. Produk, bahan, penjualan, serta simulasi biaya memakai MySQL. Jika API belum tersedia, frontend memakai data demo lokal. Chart.js dan font dimuat dari CDN.
+Saat dibuka lewat XAMPP, frontend mencoba API PHP otomatis. Produk, bahan, penjualan, serta simulasi biaya memakai MySQL. Chart.js dan font dimuat dari CDN.
 
 ## Catatan cakupan
 
